@@ -19,7 +19,7 @@ class LeftSection extends React.Component {
             Bootcamp FullStack (Upgrade-Hub) Noviembre 2019 - Julio 2020
           </p>
           <p>
-            Bootcamp aprende a programar desde cero (KeepCoding) Julio - Septiembre 2029
+            Bootcamp aprende a programar desde cero (KeepCoding) Julio - Septiembre 2019
           </p>
           <p>
             Curso Fundamentos de la Programación de Python (KeepCoding) Marzo - Junio 2019
